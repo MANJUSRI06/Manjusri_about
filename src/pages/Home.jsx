@@ -29,7 +29,7 @@ const Home = () => {
                             </a>
                         </div>
                         <a
-                            href="/images/MANJUSRI_SHANMUGAKUAMR-RESUME.pdf"
+                            href="/images/MANJUSRI_SHANMUGAKUMAR(RESUME).pdf"
                             download="Manjusri_Shanmugakumar_Resume.pdf"
                             className="hire-me-btn"
                         >
