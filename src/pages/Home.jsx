@@ -29,8 +29,9 @@ const Home = () => {
                             </a>
                         </div>
                         <a
-                            href="/images/MANJUSRI_SHANMUGAKUMAR(RESUME).pdf"
-                            download="Manjusri_Shanmugakumar_Resume.pdf"
+                            href="/images/MANJUSRI-DEVELOPER.pdf"
+                            target="_blank"
+                            rel="noreferrer"
                             className="hire-me-btn"
                         >
                             Hire Me
