@@ -276,6 +276,38 @@ const Achievements = () => {
                     </div>
                 </div>
 
+                <div className="achievement-card">
+                    <div className="achievement-image-box">
+                        <img
+                            src="/images/achievers_day.jpeg"
+                            alt="Achievers Day 2025"
+                            className="achievement-img"
+                        />
+                        <div className="achievement-badge">
+                            <Trophy size={20} />
+                        </div>
+                    </div>
+
+                    <div className="achievement-details">
+                        <div className="achievement-type">
+                            <Award size={14} />
+                            <span>Achiever Award</span>
+                        </div>
+                        <h2>Achievers Day 2025</h2>
+                        <p className="achievement-loc">
+                            <MapPin size={14} /> Knowledge Institute Of Technology, Salem
+                        </p>
+                        <p className="achievement-date">
+                            <Calendar size={14} /> 3rd Year Achievement
+                        </p>
+                        <div className="achievement-desc">
+                            <p>
+                                Received the <strong>Achiever Award</strong> at Achievers Day 2025 for being shortlisted as a finalist at the <strong>Smart India Hackathon 2025</strong>.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
                 {/* More achievement cards will go here */}
             </div>
         </section>
