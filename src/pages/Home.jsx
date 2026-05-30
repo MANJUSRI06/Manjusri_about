@@ -29,7 +29,7 @@ const Home = () => {
                             </a>
                         </div>
                         <a
-                            href="/images/MANJUSRI-DEVELOPER.pdf"
+                            href="/images/MANJUSRI_RESUME.pdf"
                             target="_blank"
                             rel="noreferrer"
                             className="hire-me-btn"
